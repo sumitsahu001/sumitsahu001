@@ -1,17 +1,19 @@
 <h1 align="center">Hey there! 👋 I'm Sumit Sahu</h1>
 
 <p align="center">
-  🚀 MERN Stack Developer | 💻 Web Wizard | 🌟 Curious Learner
+  🚀 MERN Developer | 🤖 Prompt Engineering Proficient | 🧠 AI & ML Enthusiast | 🔧 Custom AI Agent Development | 💡 AI-First Apps & Chatbots | ⚡ App Modernization for AI
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I'm a passionate web developer who loves creating clean, functional, and visually appealing websites.  
-After completing a full MERN Stack Developer course, I dove into real-world projects and even gained hands-on experience through a **6-month internship at Ypsilon IT Solutions**.
+I'm a passionate MERN Stack Developer with a strong foundation in **AI/ML, Prompt Engineering, and Chatbot Development**.  
+I love building clean, functional, and impactful web applications — and recently, I've been diving deep into creating **AI-First Apps** and **Modern AI Solutions**.
 
-I believe in learning by building and growing by sharing!
+After completing a full MERN Stack Developer course, I sharpened my skills with real-world projects and a **6-month internship at Ypsilon IT Solutions**. Now, I'm constantly exploring the intersection of AI and web development to craft smarter, more innovative products.
+
+I believe in learning by building, growing by sharing, and staying curious every single day!
 
 ---
 
@@ -22,7 +24,7 @@ Here’s what I bring to the table:
 - 💻 **Frontend:** HTML, CSS, JavaScript, Bootstrap, jQuery, React.js  
 - 🛠️ **Backend:** Node.js, Express.js  
 - 🗂️ **Database:** MongoDB  
-- 🌐 **Other Skills:** REST APIs, Git & GitHub
+- 🌐 **Other Skills:** REST APIs, Git & GitHub, Prompt Engineering, AI/ML Fundamentals, Chatbot Development
 
 ---
 
@@ -30,7 +32,8 @@ Here’s what I bring to the table:
 
 - ✅ Completed MERN Stack Developer Course  
 - 🧑‍💼 6-month internship at **Ypsilon IT Solutions**  
-- 🧠 Constantly learning new tools, improving my logic, and contributing to real-world projects
+- 🤖 Building AI-powered apps & chatbots  
+- 🧠 Constantly learning new tools, AI concepts, and contributing to real-world projects
 
 ---
 
@@ -47,7 +50,7 @@ Here’s what I bring to the table:
 📍 **LinkedIn:** [www.linkedin.com/in/sumit-sahu-69a192310](https://www.linkedin.com/in/sumit-sahu-69a192310)  
 📍 **GitHub:** [github.com/sumitsahu001](https://github.com/sumitsahu001)
 
-Let’s grow, build, and make an impact — one line of code at a time 🚀
+Let’s build smarter, modern, and impactful solutions together — one line of code at a time 🚀
 
 ---
 
