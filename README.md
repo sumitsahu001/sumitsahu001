@@ -47,10 +47,9 @@ Here’s what I bring to the table:
 
 ## 📫 Let’s Connect!
 
-📍 **LinkedIn:** [www.linkedin.com/in/sumit-sahu-69a192310](https://www.linkedin.com/in/sumit-sahu-69a192310)  
-📍 **GitHub:** [github.com/sumitsahu001](https://github.com/sumitsahu001)
-📍 Visit my portfolio ** .[ personal-portofolio-chi-six.vercel.app ]
-
+📍 LinkedIn: www.linkedin.com/in/sumit-sahu-69a192310
+📍 GitHub: github.com/sumitsahu001
+📍 Portfolio: personal-portofolio-chi-six.vercel.app
 
 
 Let’s build smarter, modern, and impactful solutions together — one line of code at a time 🚀
