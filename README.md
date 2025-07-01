@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-I'm a passionate MERN Stack Developer with a strong foundation in **AI/ML, Prompt Engineering, and Chatbot Development**.  
+I'm a passionate **MERN Stack Developer** with a strong foundation in **AI/ML, Prompt Engineering, and Chatbot Development**.  
 I love building clean, functional, and impactful web applications — and recently, I've been diving deep into creating **AI-First Apps** and **Modern AI Solutions**.
 
 After completing a full MERN Stack Developer course, I sharpened my skills with real-world projects and a **6-month internship at Ypsilon IT Solutions**. Now, I'm constantly exploring the intersection of AI and web development to craft smarter, more innovative products.
@@ -47,13 +47,12 @@ Here’s what I bring to the table:
 
 ## 📫 Let’s Connect!
 
-📍 LinkedIn: www.linkedin.com/in/sumit-sahu-69a192310
-📍 GitHub: github.com/sumitsahu001
-📍 Portfolio: personal-portofolio-chi-six.vercel.app
-
+📍 **LinkedIn:** [www.linkedin.com/in/sumit-sahu-69a192310](https://www.linkedin.com/in/sumit-sahu-69a192310)  
+📍 **GitHub:** [github.com/sumitsahu001](https://github.com/sumitsahu001)  
+📍 **Portfolio:** [personal-portofolio-chi-six.vercel.app](https://personal-portofolio-chi-six.vercel.app)  
 
 Let’s build smarter, modern, and impactful solutions together — one line of code at a time 🚀
 
 ---
 
-> “Push yourself, because no one else is going to do it for you.”
+> “Push yourself, because no one else is going to do it for you.”  
