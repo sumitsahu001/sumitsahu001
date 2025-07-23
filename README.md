@@ -49,7 +49,7 @@ Here’s what I bring to the table:
 
 📍 **LinkedIn:** [www.linkedin.com/in/sumit-sahu-69a192310](https://www.linkedin.com/in/sumit-sahu-69a192310)  
 📍 **GitHub:** [github.com/sumitsahu001](https://github.com/sumitsahu001)  
-📍 **Portfolio:** [personal-portofolio-chi-six.vercel.app](https://personal-portofolio-chi-six.vercel.app)  
+📍 **Portfolio:** [personal-portfolio-sumit-sahu.netlify.app ]  
 
 Let’s build smarter, modern, and impactful solutions together — one line of code at a time 🚀
 
