@@ -49,10 +49,10 @@ Here’s what I bring to the table:
 
 📍 **LinkedIn:** [www.linkedin.com/in/sumit-sahu-69a192310](https://www.linkedin.com/in/sumit-sahu-69a192310)  
 📍 **GitHub:** [github.com/sumitsahu001](https://github.com/sumitsahu001)  
-📍 **Portfolio:** [personal-portfolio-sumit-sahu.netlify.app ]  
+📍 **Portfolio:** [sumit-portfolio.netlify.app](https://sumit-portfolio.netlify.app)
 
 Let’s build smarter, modern, and impactful solutions together — one line of code at a time 🚀
 
 ---
 
-> “Push yourself, because no one else is going to do it for you.”  
+> “Push yourself, because no one else is going to do it for you.”
