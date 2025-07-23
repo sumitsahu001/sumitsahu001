@@ -8,18 +8,18 @@
 
 ## 🧠 About Me
 
-I'm a passionate **MERN Stack Developer** with a strong foundation in **AI/ML, Prompt Engineering, and Chatbot Development**.  
-I love building clean, functional, and impactful web applications — and recently, I've been diving deep into creating **AI-First Apps** and **Modern AI Solutions**.
+I'm a passionate **MERN Stack Developer** with a solid foundation in **AI/ML, Prompt Engineering, and Chatbot Development**.  
+I specialize in building clean, modern, and impactful web applications — and lately, I've been diving deep into **AI-First Products** and **Next-Gen Automation Solutions**.
 
-After completing a full MERN Stack Developer course, I sharpened my skills with real-world projects and a **6-month internship at Ypsilon IT Solutions**. Now, I'm constantly exploring the intersection of AI and web development to craft smarter, more innovative products.
+After completing an intensive MERN Stack Developer course and a **6-month internship at Ypsilon IT Solutions**, I’ve worked on several real-world projects that blend web development with smart AI logic.
 
-I believe in learning by building, growing by sharing, and staying curious every single day!
+I believe in learning by building, growing by sharing, and staying endlessly curious 🚀
 
 ---
 
 ## 💡 Tech Stack
 
-Here’s what I bring to the table:
+Here’s what I work with:
 
 - 💻 **Frontend:** HTML, CSS, JavaScript, Bootstrap, jQuery, React.js  
 - 🛠️ **Backend:** Node.js, Express.js  
@@ -32,8 +32,8 @@ Here’s what I bring to the table:
 
 - ✅ Completed MERN Stack Developer Course  
 - 🧑‍💼 6-month internship at **Ypsilon IT Solutions**  
-- 🤖 Building AI-powered apps & chatbots  
-- 🧠 Constantly learning new tools, AI concepts, and contributing to real-world projects
+- 🤖 Building custom AI agents, chatbots & AI-first web apps  
+- 🧠 Constantly learning and contributing to meaningful projects
 
 ---
 
@@ -47,11 +47,11 @@ Here’s what I bring to the table:
 
 ## 📫 Let’s Connect!
 
-📍 **LinkedIn:** [www.linkedin.com/in/sumit-sahu-69a192310](https://www.linkedin.com/in/sumit-sahu-69a192310)  
+📍 **LinkedIn:** [linkedin.com/in/sumit-sahu-69a192310](https://www.linkedin.com/in/sumit-sahu-69a192310)  
 📍 **GitHub:** [github.com/sumitsahu001](https://github.com/sumitsahu001)  
-📍 **Portfolio:** [sumit-portfolio.netlify.app](https://sumit-portfolio.netlify.app)
+📍 **Portfolio:** [personal-portfolio-sumit-sahu.netlify.app](https://personal-portfolio-sumit-sahu.netlify.app)
 
-Let’s build smarter, modern, and impactful solutions together — one line of code at a time 🚀
+Let’s build something smarter, modern, and meaningful — one line of code at a time 💻✨
 
 ---
 
