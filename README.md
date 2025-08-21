@@ -48,7 +48,6 @@ Here’s what I work with:
 ## 📫 Let’s Connect!
 
 📍 **LinkedIn:** [linkedin.com/in/sumit-sahu-69a192310](https://www.linkedin.com/in/sumit-sahu-69a192310)  
-📍 **GitHub:** [github.com/sumitsahu001](https://github.com/sumitsahu001)  
 📍 **Portfolio:** [personal-portfolio-sumit-sahu.netlify.app](https://personal-portfolio-sumit-sahu.netlify.app)
 
 Let’s build something smarter, modern, and meaningful — one line of code at a time 💻✨
