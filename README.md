@@ -1,17 +1,18 @@
 <h1 align="center">Hey there! 👋 I'm Sumit Sahu</h1>
 
 <p align="center">
-  🚀 MERN Developer | 🤖 Prompt Engineering Proficient | 🧠 AI & ML Enthusiast | 🔧 Custom AI Agent Development | 💡 AI-First Apps & Chatbots | ⚡ App Modernization for AI
+  🚀 MERN Stack Developer | 🤖 AI & Chatbot Enthusiast | 🧠 Prompt Engineering | 🔧 Custom AI Agent Development | 💡 AI-First Applications | ⚡ Web App Modernization
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I'm a passionate **MERN Stack Developer** with a solid foundation in **AI/ML, Prompt Engineering, and Chatbot Development**.  
-I specialize in building clean, modern, and impactful web applications — and lately, I've been diving deep into **AI-First Products** and **Next-Gen Automation Solutions**.
+I’m a passionate **Full Stack Developer** with a strong foundation in **MERN Stack, AI/ML fundamentals, and Chatbot Development**.  
+My journey has been a continuous path of growth — from structured learning, to professional internship, and then to building real-world projects across multiple domains.
 
-After completing an intensive MERN Stack Developer course and a **6-month internship at Ypsilon IT Solutions**, I’ve worked on several real-world projects that blend web development with smart AI logic.
+After completing an intensive **MERN Stack Developer course**, I gained **6 months of hands-on industry experience** during my internship at **Ypsilon IT Solutions Pvt. Ltd.** (Aug 2024 – Feb 2025).  
+Since then, I’ve been working on **independent and academic projects** (Mar 2025 – Aug 2025), where I combined scalable **web apps with AI-first solutions and chatbots**.
 
 I believe in learning by building, growing by sharing, and staying endlessly curious 🚀
 
@@ -19,21 +20,22 @@ I believe in learning by building, growing by sharing, and staying endlessly cur
 
 ## 💡 Tech Stack
 
-Here’s what I work with:
-
 - 💻 **Frontend:** HTML, CSS, JavaScript, Bootstrap, jQuery, React.js  
 - 🛠️ **Backend:** Node.js, Express.js  
 - 🗂️ **Database:** MongoDB  
-- 🌐 **Other Skills:** REST APIs, Git & GitHub, Prompt Engineering, AI/ML Fundamentals, Chatbot Development
+- 🌐 **Other Skills:** REST APIs, Git & GitHub, Prompt Engineering, AI/ML Fundamentals, Chatbot Development  
 
 ---
 
 ## 🔥 My Journey So Far
 
-- ✅ Completed MERN Stack Developer Course  
-- 🧑‍💼 6-month internship at **Ypsilon IT Solutions**  
-- 🤖 Building custom AI agents, chatbots & AI-first web apps  
-- 🧠 Constantly learning and contributing to meaningful projects
+- 🎯 Completed **MERN Stack Developer Course**  
+- 🧑‍💻 **Trainee Software Developer** – 6-month internship at **Ypsilon IT Solutions Pvt. Ltd.** (Aug 2024 – Feb 2025)  
+- 🌍 **Full Stack & Chatbot Developer (Independent Projects)** – (Mar 2025 – Aug 2025)  
+   - Built apps for **government, freelancing, real estate, healthcare, and career tools**  
+   - Created **AI-powered chatbots** with **Python, Node.js & OpenAI APIs**  
+   - Deployed **scalable, responsive, SEO-optimized** solutions  
+- 🚀 Currently growing as a **MERN + AI Developer**, exploring **custom AI agents & next-gen automation**
 
 ---
 
@@ -48,10 +50,10 @@ Here’s what I work with:
 ## 📫 Let’s Connect!
 
 📍 **LinkedIn:** [linkedin.com/in/sumit-sahu-69a192310](https://www.linkedin.com/in/sumit-sahu-69a192310)  
-📍 **Portfolio:** [personal-portfolio-sumit-sahu.netlify.app](https://personal-portfolio-sumit-sahu.netlify.app)
+📍 **Portfolio:** [personal-portfolio-sumit-sahu.netlify.app](https://personal-portfolio-sumit-sahu.netlify.app)  
 
 Let’s build something smarter, modern, and meaningful — one line of code at a time 💻✨
 
 ---
 
-> “Push yourself, because no one else is going to do it for you.”
+> *“Push yourself, because no one else is going to do it for you.”*
