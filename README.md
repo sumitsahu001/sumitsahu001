@@ -49,8 +49,8 @@ I believe in learning by building, growing by sharing, and staying endlessly cur
 
 ## 📫 Let’s Connect!
 
-📍 **LinkedIn:** [linkedin.com/in/sumit-sahu-69a192310](https://www.linkedin.com/in/sumit-sahu-69a192310)  
-📍 **Portfolio:** [personal-portfolio-sumit-sahu.netlify.app](https://personal-portfolio-sumit-sahu.netlify.app)  
+📍 **LinkedIn:** [Sumit-Sahu-Fullstack/](https://www.linkedin.com/in/sumit-sahu-fullstack/)  
+📍 **Portfolio:** [personal-portfolio-Sumit-Sahu](https://personal-portfolio-sumit-sahu.netlify.app)  
 
 Let’s build something smarter, modern, and meaningful — one line of code at a time 💻✨
 
