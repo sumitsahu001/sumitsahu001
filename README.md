@@ -4,7 +4,8 @@
 
 ---
 
-👨‍💻 About Me
+<h2 > 👨‍💻 About Me</h2>
+
 I'm a motivated and self-taught Full Stack Developer from Indore, India, with a passion for building scalable, AI-first web applications. I transitioned from a BCom background to tech, specializing in the MERN stack, API design, and AI integration.
 
 
