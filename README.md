@@ -46,16 +46,18 @@ Tools & Platforms: Git, GitHub, VS Code, Vercel, Thunder Client
 Other Skills: MERN Stack, REST APIs, Prompt Engineering, AI/ML Fundamentals  
 
 ---
+## 🔥 My Journey: From Commerce to Code
 
-## 🔥 My Journey So Far
+My path into tech wasn't conventional. I started with a Bachelor of Commerce  but was driven by a passion for building. I'm self-taught, and I believe in learning by doing.
 
-- 🎯 Completed **MERN Stack Developer Course**  
-- 🧑‍💻 **Trainee Software Developer** – 6-month internship at **Ypsilon IT Solutions Pvt. Ltd.** (Aug 2024 – Feb 2025)  
-- 🌍 **Full Stack & Chatbot Developer (Independent Projects)** – (Mar 2025 – Aug 2025)  
-   - Built apps for **government, freelancing, real estate, healthcare, and career tools**  
-   - Created **AI-powered chatbots** with **Python, Node.js & OpenAI APIs**  
-   - Deployed **scalable, responsive, SEO-optimized** solutions  
-- 🚀 Currently growing as a **MERN + AI Developer**, exploring **custom AI agents & next-gen automation**
+Building the Foundation (Aug 2024 – Feb 2025): I earned my first industry role as a MERN Intern at Ypsilon IT Solution Pvt. Ltd.. This is where I honed my backend skills, focusing on building and optimizing RESTful API endpoints for data retrieval.
+
+
+Diving into AI & Full-Stack Projects: I then dedicated time to shipping a diverse portfolio of independent projects. This is where I truly merged MERN with AI, building platforms like JobCrackr (an AI interview coach) , MediBot (an AI symptom checker) , and SkillBridge (a freelance hiring platform).
+
+
+
+Scaling Real-World Solutions (Aug 2025 – Present): I'm currently a Software Developer Intern at WebSeeder Technologies Pvt. Ltd.. Here, I'm developing full-stack features for live AI-driven web applications, integrating third-party APIs, and managing databases in a professional team environment.
 
 ---
 
