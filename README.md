@@ -1,29 +1,48 @@
-<h1 align="center">Hey there! 👋 I'm Sumit Sahu</h1>
+<h1 align="center">Hey there! 👋 I'm Sumit Sahu </h1>
 
-<p align="center">
-  🚀 MERN Stack Developer | 🤖 AI & Chatbot Enthusiast | 🧠 Prompt Engineering | 🔧 Custom AI Agent Development | 💡 AI-First Applications | ⚡ Web App Modernization
-</p>
+<p align="center"> 🚀 <strong>Full Stack Developer (MERN) | 🤖 AI & Chatbot Solutions | 🧠 Prompt Engineering</strong> </p>
 
 ---
 
-## 🧠 About Me
+👨‍💻 About Me
+I'm a motivated and self-taught Full Stack Developer from Indore, India, with a passion for building scalable, AI-first web applications. I transitioned from a BCom background to tech, specializing in the MERN stack, API design, and AI integration.
 
-I’m a passionate **Full Stack Developer** with a strong foundation in **MERN Stack, AI/ML fundamentals, and Chatbot Development**.  
-My journey has been a continuous path of growth — from structured learning, to professional internship, and then to building real-world projects across multiple domains.
 
-After completing an intensive **MERN Stack Developer course**, I gained **6 months of hands-on industry experience** during my internship at **Ypsilon IT Solutions Pvt. Ltd.** (Aug 2024 – Feb 2025).  
-Since then, I’ve been working on **independent and academic projects** (Mar 2025 – Aug 2025), where I combined scalable **web apps with AI-first solutions and chatbots**.
 
-I believe in learning by building, growing by sharing, and staying endlessly curious 🚀
 
+
+🌱 I'm currently a Software Developer Intern at WebSeeder Technologies Pvt. Ltd. (Aug 2025 - Nov 2025).
+
+🛠️ I have previous industry experience as a MERN Intern with Ypsilon IT Solution Pvt. Ltd. (Aug 2024 - Feb 2025).
+
+
+💡 I thrive on solving complex problems, optimizing system performance, and collaborating on impactful projects.
 ---
 
-## 💡 Tech Stack
+💡 Tech Stack
 
-- 💻 **Frontend:** HTML, CSS, JavaScript, Bootstrap, jQuery, React.js  
-- 🛠️ **Backend:** Node.js, Express.js  
-- 🗂️ **Database:** MongoDB  
-- 🌐 **Other Skills:** REST APIs, Git & GitHub, Prompt Engineering, AI/ML Fundamentals, Chatbot Development  
+Programming: JavaScript, Python, C, C++ 
+
+
+
+Frontend: React.js, HTML, CSS, Tailwind CSS 
+
+
+
+
+
+Backend: Node.js, Express.js 
+
+
+
+
+Database: MongoDB 
+
+
+Tools & Platforms: Git, GitHub, VS Code, Vercel, Thunder Client 
+
+
+Other Skills: MERN Stack, REST APIs, Prompt Engineering, AI/ML Fundamentals  
 
 ---
 
@@ -39,11 +58,8 @@ I believe in learning by building, growing by sharing, and staying endlessly cur
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumitsahu001&show_icons=true&theme=radical" alt="Sumit's GitHub Stats" />
-</p>
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sumitsahu001&show_icons=true&theme=radical" alt="Sumit's GitHub Stats" /> </p>
 
 ---
 
