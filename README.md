@@ -56,10 +56,6 @@ Scaling Real-World Solutions (Aug 2025 – Nov 2025): Software Developer Intern 
 
 ---
 
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sumitsahu001&show_icons=true&theme=radical" alt="Sumit's GitHub Stats" /> </p>
-
----
 
 ## 📫 Let’s Connect!
 
