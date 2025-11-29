@@ -9,12 +9,7 @@
 I'm a motivated and self-taught Full Stack Developer from Indore, India, with a passion for building scalable, AI-first web applications. I transitioned from a BCom background to tech, specializing in the MERN stack, API design, and AI integration.
 
 
-
-
-
-🌱 I'm currently a Software Developer Intern at WebSeeder Technologies Pvt. Ltd. (Aug 2025 - Nov 2025).
-
-🛠️ I have previous industry experience as a MERN Intern with Ypsilon IT Solution Pvt. Ltd. (Aug 2024 - Feb 2025).
+🌱 I’ve completed two MERN-focused internships: Software Developer Intern at WebSeeder Technologies Pvt. Ltd. (Aug 2025 – Nov 2025) and MERN Intern at Ypsilon IT Solution Pvt. Ltd. (Aug 2024 – Feb 2025).
 
 
 💡 I thrive on solving complex problems, optimizing system performance, and collaborating on impactful projects.
@@ -57,7 +52,7 @@ Diving into AI & Full-Stack Projects: I then dedicated time to shipping a divers
 
 
 
-Scaling Real-World Solutions (Aug 2025 – Present): I'm currently a Software Developer Intern at WebSeeder Technologies Pvt. Ltd.. Here, I'm developing full-stack features for live AI-driven web applications, integrating third-party APIs, and managing databases in a professional team environment.
+Scaling Real-World Solutions (Aug 2025 – Nov 2025): Software Developer Intern at WebSeeder Technologies Pvt. Ltd.. Here, I have developed full-stack features for live AI-driven web applications, integrating third-party APIs, and Managed databases in a professional team environment.
 
 ---
 
