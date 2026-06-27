@@ -1,69 +1,60 @@
-<h1 align="center">Hey there! 👋 I'm Sumit Sahu </h1>
+<h1 align="center">Hey there! 👋 I'm Sumit Sahu</h1>
 
 <p align="center"> 🚀 <strong>Full Stack Developer (MERN) | 🤖 AI & Chatbot Solutions | 🧠 Prompt Engineering</strong> </p>
 
----
-
-<h2 > 👨‍💻 About Me</h2>
-
-I'm a motivated and self-taught Full Stack Developer from Indore, India, with a passion for building scalable, AI-first web applications. I transitioned from a BCom background to tech, specializing in the MERN stack, API design, and AI integration.
-
-
-🌱 I’ve completed two MERN-focused internships: Software Developer Intern at WebSeeder Technologies Pvt. Ltd. (Aug 2025 – Nov 2025) and MERN Intern at Ypsilon IT Solution Pvt. Ltd. (Aug 2024 – Feb 2025).
-
-
-💡 I thrive on solving complex problems, optimizing system performance, and collaborating on impactful projects.
----
-
-💡 Tech Stack
-
-Programming: JavaScript, Python, C, C++ 
-
-
-
-Frontend: React.js, HTML, CSS, Tailwind CSS 
-
-
-
-
-
-Backend: Node.js, Express.js 
-
-
-
-
-Database: MongoDB 
-
-
-Tools & Platforms: Git, GitHub, VS Code, Vercel, Thunder Client 
-
-
-Other Skills: MERN Stack, REST APIs, Prompt Engineering, AI/ML Fundamentals  
-
----
-## 🔥 My Journey: From Commerce to Code
-
-My path into tech wasn't conventional. I started with a Bachelor of Commerce  but was driven by a passion for building. I'm self-taught, and I believe in learning by doing.
-
-Building the Foundation (Aug 2024 – Feb 2025): I earned my first industry role as a MERN Intern at Ypsilon IT Solution Pvt. Ltd.. This is where I honed my backend skills, focusing on building and optimizing RESTful API endpoints for data retrieval.
-
-
-Diving into AI & Full-Stack Projects: I then dedicated time to shipping a diverse portfolio of independent projects. This is where I truly merged MERN with AI, building platforms like JobCrackr (an AI interview coach) , MediBot (an AI symptom checker) , and SkillBridge (a freelance hiring platform).
-
-
-
-Scaling Real-World Solutions (Aug 2025 – Nov 2025): Software Developer Intern at WebSeeder Technologies Pvt. Ltd.. Here, I have developed full-stack features for live AI-driven web applications, integrating third-party APIs, and Managed databases in a professional team environment.
+<p align="center">
+  <a href="https://personal-portfolio-sumit-sahu.netlify.app/"><strong>🌐 View My Live Portfolio</strong></a>
+</p>
 
 ---
 
+<h2>👨‍💻 About Me</h2>
+
+I'm a self-taught Full Stack Developer from Indore, India, with a passion for building scalable, AI-first web applications. I took an unconventional path into tech—transitioning from a Bachelor of Commerce directly into professional software development. 
+
+I recently completed a **1-year full-time, paid role** as a Junior Software Developer at Creatamax Infotech, managing end-to-end MERN stack development and handling direct communications with US-based clients. Before that, I built my foundation through technical internships and by independently building and shipping **8+ live full-stack projects**.
+
+I don't just write code; I build real-world solutions that solve actual problems.
+
+---
+
+## 💻 Tech Stack
+
+- **Frontend:** React.js, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+)
+- **Backend:** Node.js, Express.js, RESTful APIs
+- **Database:** MongoDB
+- **AI & Tools:** OpenAI API Integrations, Prompt Engineering, Git, GitHub, VS Code, Postman
+- **Deployment:** Vercel, Netlify, Hostinger
+
+---
+
+## 🔥 My Journey & Timeline
+
+**Junior Software Developer | Creatamax Infotech (June 2025 – June 2026)**  
+*My first full-time, paid role.* I built and maintained scalable web apps using the complete MERN stack. I architected robust REST APIs, integrated third-party services, and acted as the direct technical point of contact for our US-based clients to gather requirements and resolve front-end issues.
+
+**Software Developer Intern | WebSeeder Technologies (Mar 2025 – May 2025)**  
+Where I leveled up my backend skills. I developed full-stack features for live AI-driven web apps and optimized MongoDB database schemas to improve data retrieval efficiency for high-traffic endpoints.
+
+---
+
+## 🚀 Featured Projects (Live)
+
+I have built over 8+ personal projects focusing on MERN and AI. Here are a few of my favorites:
+
+*   **[JobCrackr](https://jobcracker-frontend-d3em.onrender.com/)** - An AI-based interview preparation web app with a custom chatbot, secure user authentication, and optimized API response times.
+*   **[SkillBridge]([Insert-Live-Link-Here](https://skill-bridge-frontends.onrender.com/))** - A secure freelance hiring ecosystem featuring customized role dashboards and encrypted user profiles.
+*   **[MediBot](https://medibot-by-sumit.netlify.app/)** - An accessible AI symptom checker using React and OpenAI to translate natural language inputs into instant healthcare insights.
+*   **[Tenders Government]([Insert-Live-Link-Here](https://tenders-frontend-three.vercel.app/))** - A responsive contractor bidding hub with real-time application tracking.
+
+*(Note: You can view the rest of my live projects on my [Portfolio](https://personal-portfolio-sumit-sahu.netlify.app/)).*
+
+---
 
 ## 📫 Let’s Connect!
 
-📍 **LinkedIn:** [Sumit-Sahu-Fullstack/](https://www.linkedin.com/in/sumit-sahu-fullstack/)  
-📍 **Portfolio:** [personal-portfolio-Sumit-Sahu](https://personal-portfolio-sumit-sahu.netlify.app)  
+📍 **LinkedIn:** [linkedin.com/in/sumit-sahu-fullstack](https://www.linkedin.com/in/sumit-sahu-fullstack/)  
+📍 **Portfolio:** [personal-portfolio-sumit-sahu.netlify.app](https://personal-portfolio-sumit-sahu.netlify.app/)  
+📍 **Email:** sumitsahu9653@gmail.com
 
 Let’s build something smarter, modern, and meaningful — one line of code at a time 💻✨
-
----
-
-> *“Push yourself, because no one else is going to do it for you.”*
