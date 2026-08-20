@@ -10,7 +10,7 @@
 
 <h2>👨‍💻 About Me</h2>
 
-I'm a self-taught Full Stack Developer from Indore, India, with a passion for building scalable, AI-first web applications. I took an unconventional path into tech—transitioning from a Bachelor of Commerce directly into professional software development. 
+I'm a self-taught Full Stack Developer from Indore, India, with a passion for building scalable, AI-first web applications. I took an unconventional path into tech transitioning from a Bachelor of Commerce directly into professional software development. 
 
 I recently completed a **1-year full-time, paid role** as a Junior Software Developer at Creatamax Infotech, managing end-to-end MERN stack development and handling direct communications with US-based clients. Before that, I built my foundation through technical internships and by independently building and shipping **8+ live full-stack projects**.
 
